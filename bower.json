@@ -1,0 +1,20 @@
+{
+  "name": "mine",
+  "description": "",
+  "main": "ex.js",
+  "authors": [
+    "Stephanie <fangwp91@jabil.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
